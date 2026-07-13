@@ -1,4 +1,4 @@
-# Python Screen Capture CLI
+# "PYSC": Python Screen Capture CLI
 
 Una herramienta de línea de comandos para realizar capturas de pantalla utilizando Python.
 
